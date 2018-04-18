@@ -1,0 +1,9 @@
+<?php
+
+
+    $mf = new MForm();
+
+    $mf->addHtml('<div id="editSection"></div>');
+    $mf->addTextAreaField(1, array('id' => 'formEditSection'));
+
+    echo $mf->show();

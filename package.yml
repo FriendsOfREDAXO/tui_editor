@@ -1,0 +1,7 @@
+package: tui_editor
+version: 1.0.0
+author: Joachim Doerr
+requires:
+    redaxo: ^5.5.0
+page:
+    title: 'TUI.editor'

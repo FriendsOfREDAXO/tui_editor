@@ -4,4 +4,4 @@
 
 https://github.com/nhnent/tui.editor 
 
-Lead: Thomas Skerbis
+Lead: Thomas Skerbis, Joachim Dörr
