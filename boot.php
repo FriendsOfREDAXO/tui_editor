@@ -5,6 +5,7 @@ if (rex::isBackend() && !empty(rex::getUser())) {
     rex_view::addCssFile($this->getAssetsUrl('lib/highlightjs/styles/github.css'));
     rex_view::addCssFile($this->getAssetsUrl('lib/tui-editor/dist/tui-editor.css'));
     rex_view::addCssFile($this->getAssetsUrl('lib/tui-editor/dist/tui-editor-contents.css'));
+    rex_view::addCssFile($this->getAssetsUrl('tui.css'));
 
     rex_view::addJsFile($this->getAssetsUrl('lib/markdown-it/dist/markdown-it.js'));
     rex_view::addJsFile($this->getAssetsUrl('lib/to-mark/dist/to-mark.js'));
