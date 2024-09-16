@@ -1,5 +1,5 @@
 package: tui_editor
 version: 1.0.0
-author: Joachim Doerr
+author: 'Friends Of REDAXO'
 requires:
     redaxo: ^5.5.0
